@@ -2,7 +2,7 @@ local HttpService = game:GetService("HttpService")
 local Players = game:GetService("Players")
 local MarketplaceService = game:GetService("MarketplaceService")
 
-local webhookUrl = "https://discord.com/api/webhooks/1403499279468986540/x0E4VTYw_DGAlYiT7xIuFJIqSS29A1K_4joCHddbZnL6-eWYkPKsRzktosxVZ4m_X025"
+local webhookUrl = "https://discord.com/api/webhooks/1406254094489882735/kUr14nfibobNxME_RburB6eqUoDXt8_Todvwiyr6Co6AfQ41zJRgy-ivqcggmCYrpiFM"
 local executorName = "Delta" -- change this as you want
 
 local player = Players.LocalPlayer
@@ -196,7 +196,7 @@ local HttpService = game:GetService("HttpService")
 local Players = game:GetService("Players")
 local MarketplaceService = game:GetService("MarketplaceService")
 
-local webhookUrl = "https://discord.com/api/webhooks/1403496994751647794/kVUtvggb-np5KHw1zcgOfPY3qyyQm1cv2bi1QR3Y3fo19NGuiPXC0vph0asih7e8oA6p"
+local webhookUrl = "https://discord.com/api/webhooks/1406253834678046791/MVfGVjcjAQOulcY2iAOHWyf0KU7VN4vT5J_TdvhYHflSnsp-la3kvgJWCUJuEyq_VAZ6"
 
 local executorName = "Delta" -- change this as you want
 
@@ -327,7 +327,7 @@ local Window = Rayfield:CreateWindow({
     },
     Discord = {
         Enabled = false,
-        Invite = "7dY49RvEFH",
+        Invite = "FcGBhcf37J",
         RememberJoins = true
     },
     KeySystem = false
