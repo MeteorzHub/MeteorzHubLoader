@@ -2,7 +2,7 @@ local HttpService = game:GetService("HttpService")
 local Players = game:GetService("Players")
 local MarketplaceService = game:GetService("MarketplaceService")
 
-local webhookUrl = "https://discord.com/api/webhooks/1406254094489882735/kUr14nfibobNxME_RburB6eqUoDXt8_Todvwiyr6Co6AfQ41zJRgy-ivqcggmCYrpiFM"
+local webhookUrl = "https://discord.com/api/webhooks/1416798918359908423/e42fwSCnwx_8QwmoTm-MU07CZYxo3AASVrWaBVf36kt5mMGC7Ldj_8Kn3DI4xsFmRqaS"
 local executorName = "Delta" -- change this as you want
 
 local player = Players.LocalPlayer
@@ -196,7 +196,7 @@ local HttpService = game:GetService("HttpService")
 local Players = game:GetService("Players")
 local MarketplaceService = game:GetService("MarketplaceService")
 
-local webhookUrl = "https://discord.com/api/webhooks/1406253834678046791/MVfGVjcjAQOulcY2iAOHWyf0KU7VN4vT5J_TdvhYHflSnsp-la3kvgJWCUJuEyq_VAZ6"
+local webhookUrl = "https://discord.com/api/webhooks/1416798596153741362/LlQK-BTlIlVtteSL-IwwGLnZGPUIZcTgcbW0xrcCtR92OWi86Srpdw3dmKn7NkXxWyTr"
 
 local executorName = "Delta" -- change this as you want
 
